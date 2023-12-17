@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.shopify.com/s/files/1/0070/5901/3716/files/coding_background.jpg?v=1688538955)]
+[![MasterHead](https://cdnl.iconscout.com/lottie/premium/preview-watermark/software-programming-4518979-3743962.mp4)]
 <h1 align="center">Hi 👋, I'm Trisha Mandal</h1>
 <h3 align="center">"Crafting Tomorrow's Technology"</h3>
 <img align="right" alt="coding" width ="400" src="https://www.behance.net/gallery/116770475/Animated-illustrations"
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trishaamandal&show_icons=true&locale=en" alt="trishaamandal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trishaamandal&" alt="trishaamandal" /></p>
-
