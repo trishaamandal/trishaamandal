@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/trishamandal00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trishamandal00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/trishamandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trishamandal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trishamandal123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trishamandal" height="30" width="40" /></a>
 <a href="https://instagram.com/me._.trisha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me._.trisha_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/trishamandal1053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trishamandal1053" height="30" width="40" /></a>
 <a href="https://discord.gg/trishamandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="trishamandal" height="30" width="40" /></a>
