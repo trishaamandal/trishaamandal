@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/trishamandal00" target="blank"><img src="https://img.shields.io/twitter/follow/trishamandal00?logo=twitter&style=for-the-badge" alt="trishamandal00" /></a> </p>
 
-- 🌱 I’m currently learning **phone app programming**
+- 🌱 I’m currently learning **web & app programming**
 
-- 💬 Ask me about **Android,MEARN,**
+- 💬 Ask me about **Python,SqL,Database,*OOp*
 
 - ⚡ Fun fact **WHY do programmers prefer dark mode ? because light attracts bugs.**
 
