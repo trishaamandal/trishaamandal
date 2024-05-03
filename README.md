@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **web & app programming**
 
-- 💬 Ask me about **Python,SqL,Database,*OOp*
+- 💬 Ask me about **Python,SqL,Database,OOp**
 
 - ⚡ Fun fact **WHY do programmers prefer dark mode ? because light attracts bugs.**
 
