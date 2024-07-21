@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python,SqL,Database,OOp**
 
-- ⚡ Fun fact **WHY do programmers prefer dark mode ? because light attracts bugs.**
+- ⚡ Fun fact **WHY do programmers prefer dark mode ? because light attracts bugs :>.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
