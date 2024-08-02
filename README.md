@@ -23,6 +23,64 @@
 <a href="https://www.youtube.com/c/trishamandal1053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="trishamandal1053" height="30" width="40" /></a>
 <a href="https://discord.gg/trishamandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="trishamandal" height="30" width="40" /></a>
 </p>
+:open_book: :books: Skilled in :closed_book: :desktop_computer:
+
+</h1>
+<h1>Platform:&nbsp;&nbsp;
+    <img src="images/platform/macos.svg" height="34" alt="macOS" align=right>&nbsp;&nbsp;
+    <img src="images/platform/windows.svg" height="34" alt="Windows" align=right>&nbsp;&nbsp;
+    <img src="images/platform/linux.svg" height="34" alt="Linux" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Languages:&nbsp;&nbsp;
+    <img src="images/pl/bash.svg" height="34" alt="Bash" align=right>&nbsp;&nbsp;
+    <img src="images/pl/c.svg" height="34" alt="C" align=right>&nbsp;&nbsp;
+    <img src="images/pl/python.svg" height="34" alt="Python" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/ts.svg" height="34" alt="TS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/js.svg" height="34" alt="JS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/sass.svg" height="34" alt="SCSS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/css.svg" height="34" alt="CSS" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/html.svg" height="34" alt="HTML" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Frontend or UI/UX:&nbsp;&nbsp;
+    <img src="images/frontend/figma.svg" height="34" alt="Figma" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/next.svg" height="34" alt="Next" align=right>&nbsp;&nbsp;
+    <img src="images/frontend/react.svg" height="34" alt="React" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Backend:&nbsp;&nbsp;
+    <img src="images/backend/fastapi.svg" height="34" alt="FastAPI" align=right>&nbsp;&nbsp;
+    <img src="images/backend/express.svg" height="34" alt="Express" align=right>&nbsp;&nbsp;
+    <img src="images/backend/node.svg" height="34" alt="Node" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Database:&nbsp;&nbsp;
+    <img src="images/db/mongodb.svg" height="34" alt="MongoDB" align=right>&nbsp;&nbsp;
+    <img src="images/db/mariadb.svg" height="34" alt="MariaDB" align=right>&nbsp;&nbsp;
+    <img src="images/db/mysql.svg" height="34" alt="MySQL" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>Cloud:&nbsp;&nbsp;
+    <img src="images/cloud/digitalocean.svg" height="34" alt="DigitalOcean" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/aws.svg" height="34" alt="Amazon Web Services" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/gcp.svg" height="34" alt="Google Cloud Platform" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>DevOps:&nbsp;&nbsp;
+    <img src="images/cloud/kubernetes.svg" height="34" alt="Kubernetes" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/docker.svg" height="34" alt="Docker" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/jenkins.svg" height="34" alt="Jenkins" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/github.svg" height="34" alt="GitHub" align=right>&nbsp;&nbsp;
+    <img src="images/cloud/git.svg" height="34" alt="Git" align=right>&nbsp;&nbsp;
+</h1>
+
+<h1>IoT:&nbsp;&nbsp;
+    <img src="images/iot/node-red.svg" height="34" alt="Node-RED" align=right>&nbsp;&nbsp;
+    <img src="images/iot/rpi.svg" height="34" alt="Raspberry Pi" align=right>&nbsp;&nbsp;
+    <img src="images/iot/arduino.svg" height="34" alt="Arduino" align=right>&nbsp;&nbsp;
+</h1>
+<br><br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
