@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)
+![MasterHead](https://i.gifer.com/EgUx.gif)
 
 
 <h1 align="center">Hi 👋, I'm Trisha Mandal</h1>
