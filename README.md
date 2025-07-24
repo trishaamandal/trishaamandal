@@ -1,4 +1,7 @@
-![MasterHead](https://i.gifer.com/EgUx.gif)
+<p align="center">
+  <img src="https://i.gifer.com/EgUx.gif" alt="MasterHead GIF" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Trisha Mandal</h1>
